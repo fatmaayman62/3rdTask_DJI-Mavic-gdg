@@ -38,7 +38,7 @@ button{
     cursor: pointer;
 }
 button:hover{
-    transform: scale(1.08);
+    transform: scale(1.02);
 }
 
 .item-link:hover{
